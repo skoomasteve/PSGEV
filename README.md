@@ -21,7 +21,7 @@ A lightweight, all-PowerShell companion toolkit for [God's Eye View](https://git
 
 ```powershell
 # 1. Download or clone this repo, then from its folder (elevated):
-powershell -ExecutionPolicy Bypass -File .\Install-GEV.ps1
+powershell -ExecutionPolicy Bypass -File .\Install-GEV-GodEyesView.ps1
 
 # 2. When asked, complete the interactive prompts — then launch:
 .\GEV-Tools-Launcher.bat
